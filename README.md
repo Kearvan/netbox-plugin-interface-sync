@@ -2,7 +2,7 @@
 [Русская версия](./README_ru.md)
 ## Overview
 This plugin allows you to compare and synchronize interfaces between devices and device types in NetBox. It can be useful for finding and correcting inconsistencies between interfaces.  
-Tested with NetBox versions 2.10, 2.11
+Tested with NetBox version 4.5.0
 ## Installation
 If your NetBox installation uses virtualenv, activate it like this:
 ```
