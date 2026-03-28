@@ -17,7 +17,7 @@ setup(
     install_requires=['attrs>=21.1.0', 'netbox>=4.5.0'],
     packages=["netbox_interface_sync"],
     package_data={"netbox_interface_sync": ["templates/netbox_interface_sync/*.html"]},
-    zip_safe=False
+    zip_safe=False,
     classifiers=[
         'Development Status :: 4 - Beta',
         'Framework :: Django',
