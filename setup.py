@@ -11,7 +11,7 @@ setup(
     long_description_content_type='text/markdown',
     author='Victor Golovanenko',
     author_email='drygdryg2014@yandex.com',
-    maintainer='Kearvan mcTorbis",
+    maintainer='Kearvan mcTorbins',
     maintainer_email='kearvan@mail.ru',
     license='GPL-3.0',
     install_requires=['attrs>=21.1.0', 'netbox>=4.5.0'],
